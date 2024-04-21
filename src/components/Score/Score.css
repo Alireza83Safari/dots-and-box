@@ -1,0 +1,26 @@
+.score-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.score-box {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
